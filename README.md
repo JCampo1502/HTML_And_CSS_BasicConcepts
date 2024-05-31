@@ -1,4 +1,4 @@
-![Logo](https://github.com/JCampo1502/HTML_And_CSS_BasicConcepts/blob/master/Images/logo.png?raw=true)
+![Logo](https://github.com/JCampo1502/HTML_And_CSS_BasicConcepts/blob/main/Images/logo.png?raw=true)
 
 # Ejercicio 1 | Especificaciones Bandeja Paisa
 Vamos a crear una página web que tenga la información correspondiente a una receta de una bandeja paisa.
